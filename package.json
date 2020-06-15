@@ -33,7 +33,7 @@
     "link-module-alias": "^1.1.5",
     "log4js": "^3.0.6",
     "module-alias": "^2.1.0",
-    "mongoose": "^5.3.16",
+    "mongoose": "^5.7.5",
     "mongoose-sequence": "^4.0.1",
     "nodemon": "^1.18.9",
     "os": "^0.1.1",
